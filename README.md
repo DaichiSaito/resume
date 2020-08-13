@@ -212,3 +212,10 @@
 [Amazon Web Services パターン別構築・運用ガイド](https://www.amazon.co.jp/Amazon-Services-%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E5%88%A5%E6%A7%8B%E7%AF%89%E3%83%BB%E9%81%8B%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89-%E6%94%B9%E8%A8%82%E7%AC%AC2%E7%89%88-Informatics/dp/4797392576/ref=sr_1_6?ie=UTF8&qid=1549457991&sr=8-6&keywords=aws+%E5%8F%82%E8%80%83%E6%9B%B8)
 
 [超速! Web ページ速度改善ガイド ── 使いやすさは「速さ」から始まる](https://www.amazon.co.jp/Web%E3%83%9A%E3%83%BC%E3%82%B8%E9%80%9F%E5%BA%A6%E6%94%B9%E5%96%84%E3%82%AC%E3%82%A4%E3%83%89-%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%95%E3%81%AF%E3%80%8C%E9%80%9F%E3%81%95%E3%80%8D%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8B-WEB-PRESS-plus/dp/477419400X/ref=sr_1_1?ie=UTF8&qid=1549084329&sr=8-1&keywords=%E8%B6%85%E9%80%9F)
+
+[メタプログラミングRuby 第2版 \| Paolo Perrotta, 角 征典 \|本 \| 通販 \| Amazon](https://www.amazon.co.jp/%E3%83%A1%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0Ruby-%E7%AC%AC2%E7%89%88-Paolo-Perrotta/dp/4873117437)
+
+
+[パーフェクト Ruby on Rails \| すがわら まさのり, 前島 真一, 近藤 宇智朗, 橋立 友宏 \|本 \| 通販 \| Amazon](https://www.amazon.co.jp/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88-Ruby-Rails-%E3%81%99%E3%81%8C%E3%82%8F%E3%82%89-%E3%81%BE%E3%81%95%E3%81%AE%E3%82%8A/dp/4774165166)
+
+[Ruby on Rails 6 実践ガイド \(impress top gear\) \| 努, 黒田 \|本 \| 通販 \| Amazon](https://www.amazon.co.jp/Ruby-Rails-%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-impress-gear/dp/4295008052)
